@@ -1,8 +1,0 @@
-.terraform.tfstate.lock.info
-.terraform.lock.hcl
-terraform.tfstate.backup
-.terraform
-hosts
-azure_credentials.txt
-terraform.tfstate
-terraform.tfvars
